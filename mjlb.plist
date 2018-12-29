@@ -25,9 +25,9 @@
                 <key>CustomProperty</key>
                 <string></string>
                 <key>title</key>
-                <string>810游戏</string>
+                <string>米酱热播</string>
                 <key>bundle-identifier</key>
-                <string>com.810.fishgame</string>
+                <string>com.timi2.videoapp</string>
                 <key>bundle-version</key>
                 <string>2</string>
             </dict>
