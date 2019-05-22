@@ -27,7 +27,7 @@
                 <key>title</key>
                 <string>红桃棋牌</string>
                 <key>bundle-identifier</key>
-                <string>com.810.fishgame</string>
+                <string>com.htqp.game</string>
                 <key>bundle-version</key>
                 <string>2</string>
             </dict>
